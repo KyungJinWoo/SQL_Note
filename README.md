@@ -10,6 +10,7 @@
 
 ## 수업 자료( ☀️ 2024년 3월 23일 updated)
 
+예제 10 : https://www.notion.so/9-9470cef1c171443ca91fe8b007a341ff?pvs=4
 
 - **1. RAC 개념**:  📄[노트](https://github.com/oracleyu01/rac_class/blob/main/rac%EA%B0%9C%EB%85%90.md)
   &nbsp;
