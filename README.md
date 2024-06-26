@@ -4,7 +4,7 @@
 
 초보자도 쉽게 배울 수 있도록 오라클 SQL 수업 내용을 정리하였습니다.
 
-[<img src="https://github.com/oracleyu01/rac_class/blob/main/001.png?raw=true" width="600" height="400">](https://github.com/KyungJinWoo/SQL_Note)
+[[<img src="https://github.com/oracleyu01/rac_class/blob/main/001.png?raw=true" width="600" height="400">](https://github.com/KyungJinWoo/SQL_Note)](https://github.com/KyungJinWoo/SQL_Note/blob/main/001.png)
 
 &nbsp;
 
